@@ -3,52 +3,40 @@
 CRUD Books
 
 
-
-
-![Logo](https://helodeepakji.github.io/home/sathilogo.png)
-
-
-## Watch Full Video
-
-[YOUTUBE]() Click Here for watch Video
-
 ## Deployment
 
-For run this project 
-First we need install python in our pc 
-then open Virtual Environment.
+First we need to install node-modules
 
 ```bash
-  env\Scripts\activate
+  npm i node-modules
 ```
 
-Then install all the requirements
+For the routing api we need express
 ```bash
-  pip install -r requirements.txt
+ npm i express
 ```
 
-at the last run project
+To store the data we are using mongoose
 ```bash
-  python manage.py runserver
+  npm i mongoose
 ```
+and create database BooksAPI and collection book
 
 ## Screenshots
-### Home Page
+### GET ALL BOOKS
 
-![App Screenshot](https://helodeepakji.github.io/home/sathihome.png)
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/getallbooks.png)
 
-### Map page
-![App Screenshot](https://helodeepakji.github.io/home/sathimap.png)
+### GET BOOK USING ID
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/getbook.png)
 
-### SignUp page
-![App Screenshot](https://helodeepakji.github.io/home/sathisignup.png)
+### ADD BOOK
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/addbokk.png)
 
-### Search page
-using websocket for Search user near me
+### UPDATE BOOK
 
-![App Screenshot](https://helodeepakji.github.io/home/sathisearch.png)
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/updatebook.png)
 
-### Verify user page
-using Ajax for Verify User
+### DELETE BOOK
 
-![App Screenshot](https://helodeepakji.github.io/home/sathiverify.png)
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/deletebook.png)
