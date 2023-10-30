@@ -31,7 +31,7 @@ and create database BooksAPI and collection book
 ![App Screenshot](https://shivani2812s.github.io/NodeAPI/getbook.png)
 
 ### ADD BOOK
-![App Screenshot](https://shivani2812s.github.io/NodeAPI/addbokk.png)
+![App Screenshot](https://shivani2812s.github.io/NodeAPI/addbook.png)
 
 ### UPDATE BOOK
 
